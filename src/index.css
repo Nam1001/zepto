@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input-box-chiptset {
+    border: none !important;
+
+}
+
+
+input:focus,
+input:active {
+    outline: none !important;
+
+}
